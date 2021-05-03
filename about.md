@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+The Poli-See blog explores local policy planning and decisions through a community-centered lens. From bike lanes to garbage pick-up schedules, we want to discuss how planning and policy decisions at the community level -- both small and large -- can be designed to target lasting positive change for the individuals, families and businesses they affect.
 
-### More Information
+### Discuss, Engage, Question or Contact Us
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Every blog post has a comment section that you can use to start or continue a discussion, provide feedback or propose alternative viewpoints. We're all about hearing what you think and getting a diversity of opinons on the issues that make our local communities tick. You can also e-mail us: [poliseeblog@gmail.com](mailto:poliseeblog@gmail.com)
