@@ -8,4 +8,4 @@ The Poli-See blog explores local policy planning and decisions through a communi
 
 ### Discuss, Engage, Question or Contact Us
 
-Every blog post has a comment section that you can use to start or continue a discussion, provide feedback or propose alternative viewpoints. We're all about hearing what you think and getting a diversity of opinons on the issues that make our local communities tick. You can also e-mail us: [poliseeblog@gmail.com](mailto:poliseeblog@gmail.com)
+Every blog post has a comment section that you can use to start or continue a discussion, provide feedback or propose alternative viewpoints. We're all about hearing what you think and getting a diversity of opinons on the issues that make our local communities tick. You can also [e-mail us](mailto:poliseeblog@gmail.com).
