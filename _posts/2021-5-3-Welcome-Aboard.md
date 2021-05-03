@@ -4,7 +4,7 @@ title: Welcome to Poli-See!
 ---
 
 <center>
-  blah
+  ![Poli-See Blog Logo]{/images/logo.png}
 </center>
 
 We're excited to announce the __Poli-See Blog__, a home to discuss policy planning and decisions, with a focus on local community.
